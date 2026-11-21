@@ -1,0 +1,11 @@
+# Media and work files — never committed
+*.mp4
+*.mkv
+*.webm
+*.jpg
+*.png
+work/
+out/
+samples/
+downloads/
+node_modules/
