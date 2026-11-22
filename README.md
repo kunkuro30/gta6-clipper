@@ -1,6 +1,8 @@
 # GTA 6 Clipper
 
-[![make.fun bounty: gta6-clipper-01](https://img.shields.io/badge/make.fun-bounty%20gta6--clipper--01-orange)](https://make.fun/bounty/gta6-clipper-01)
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/kunkuro30/gta6-clipper/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/kunkuro30/gta6-clipper/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 
 An entry for the make.fun bounty **"Clip GTA 6 for the most YouTube views"** (gta6-clipper-01 — top 20 videos share $500, ranked by YouTube views).
 
